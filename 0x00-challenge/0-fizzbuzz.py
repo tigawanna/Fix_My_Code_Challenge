@@ -2,7 +2,6 @@
 """ FizzBuzz
 """
 import sys
-from pprint import pprint
 
 
 def fizzbuzz(n):
